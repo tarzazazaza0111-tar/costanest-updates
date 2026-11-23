@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"costanest\",\"version\":\"1.1.1\",\"date\":\"2026-11-23\",\"url\":\"CostaNest-1.1.1.zxp\",\"size\":726089,\"sha256\":\"757922c0adbb164fbcf0cd70ce7b586cf6b857e16ea6ad07dca0ee148631dda0\",\"notes\":{\"th\":\"ปุ่มอัปเดตในแผง: ตรวจหาเวอร์ชันใหม่ให้เองวันละครั้ง และติดตั้งได้ด้วยปุ่มเดียว\\nแก้หน้าเปิดใช้งานที่ค้างไม่แสดงรหัสเครื่องในบางเครื่อง\",\"en\":\"Update button in the panel: checks for new versions once a day and installs them with one click\\nFixed the activation screen not showing the computer code on some computers\"}}",
- "sig": "SuRqKLr4mLsvgYiX/zFofYMRF/pTgsb3ch/++BgN5h4dSv0Ghzx7p2LYzhyMKkCbeLb09LKo9UoU6u5X0D0YCg=="
+ "payload": "{\"product\":\"costanest\",\"version\":\"1.1.2\",\"date\":\"2026-11-23\",\"url\":\"CostaNest-1.1.2.zxp\",\"size\":726088,\"sha256\":\"55047ab55898b9307e73779fc9b34048d4ee6bc899d61e01ee76fc9cdc5f75bf\",\"notes\":{\"th\":\"เวอร์ชันทดสอบปุ่มอัปเดต\\nถ้ามุมล่างซ้ายของแผงขึ้น v1.1.2 หลังเปิด Illustrator ใหม่ แปลว่าอัปเดตสำเร็จ\",\"en\":\"Test release for the update button\\nIf the bottom left of the panel shows v1.1.2 after restarting Illustrator, the update worked\"}}",
+ "sig": "dPjISUf/RNU17AXT/kDnmCvHsxZ4DUOgJnAGzCOkjkrvWxjYPBbLdQijOjm1YLkHMlKJJfzHUQxwt3RS01IxDA=="
 }
