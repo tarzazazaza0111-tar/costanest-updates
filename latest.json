@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"costanest\",\"version\":\"1.1.0\",\"date\":\"2026-11-23\",\"url\":\"CostaNest-1.1.0.zxp\",\"size\":726034,\"sha256\":\"c9668ca99836c16d2568832422c1bcc8daa20f1e112c7bdc8f5b96f71bb415c4\",\"notes\":{\"th\":\"เพิ่มปุ่มอัปเดตในแผง: แผงตรวจหาเวอร์ชันใหม่ให้เอง และติดตั้งได้ด้วยปุ่มเดียว\\nแก้หน้าเปิดใช้งานที่ค้างไม่แสดงรหัสเครื่องในบางเครื่อง\",\"en\":\"Update button in the panel: it looks for new versions by itself and installs them with one click\\nFixed the activation screen not showing the computer code on some computers\"}}",
- "sig": "o2lFmNhUYHZD0BlwHvCbGS0KsA0P3BwSj4grGEg1p13mCUyMu2sHzjmpUZ0UsaKQ3b4RSClN98A1SoOB1qDfBA=="
+ "payload": "{\"product\":\"costanest\",\"version\":\"1.1.1\",\"date\":\"2026-11-23\",\"url\":\"CostaNest-1.1.1.zxp\",\"size\":726089,\"sha256\":\"757922c0adbb164fbcf0cd70ce7b586cf6b857e16ea6ad07dca0ee148631dda0\",\"notes\":{\"th\":\"ปุ่มอัปเดตในแผง: ตรวจหาเวอร์ชันใหม่ให้เองวันละครั้ง และติดตั้งได้ด้วยปุ่มเดียว\\nแก้หน้าเปิดใช้งานที่ค้างไม่แสดงรหัสเครื่องในบางเครื่อง\",\"en\":\"Update button in the panel: checks for new versions once a day and installs them with one click\\nFixed the activation screen not showing the computer code on some computers\"}}",
+ "sig": "SuRqKLr4mLsvgYiX/zFofYMRF/pTgsb3ch/++BgN5h4dSv0Ghzx7p2LYzhyMKkCbeLb09LKo9UoU6u5X0D0YCg=="
 }
