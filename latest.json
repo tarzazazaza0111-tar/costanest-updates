@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"costanest\",\"version\":\"1.2.1\",\"date\":\"2026-11-24\",\"url\":\"CostaNest-1.2.1.zxp\",\"size\":731532,\"sha256\":\"bc54143dee02b105020585d29edcc8cbf48cd845856e16231f5fc73f5cc00a72\",\"notes\":{\"th\":\"เวอร์ชันทดสอบป้ายแจ้งเตือนอัปเดตแบบใหม่\\nถ้ามุมล่างซ้ายของแผงขึ้น v1.2.1 หลังเปิด Illustrator ใหม่ แปลว่าอัปเดตสำเร็จ\",\"en\":\"Test release for the new update notice\\nIf the bottom left of the panel shows v1.2.1 after restarting Illustrator, the update worked\"}}",
- "sig": "eFATBVQDKYgubebWUi4SyJctDKadMJQ1WVjYVfoz7XzhXvJZH8TRTJu7qrfewDo/wnW0KaJXaEYY2s0PEvigCQ=="
+ "payload": "{\"product\":\"costanest\",\"version\":\"1.2.2\",\"date\":\"2026-11-24\",\"url\":\"CostaNest-1.2.2.zxp\",\"size\":731781,\"sha256\":\"0597501d1f1d0354496b7babd17f6eb9292dda54135c2e613f05745da3094412\",\"notes\":{\"th\":\"แถบเลื่อนในแผงเป็นสีส้มให้เข้ากับธีม\\nเอาแถบเลื่อนเล็กที่โผล่เกินมาข้างแท็บ “หลัก / ปรับแต่งขั้นสูง” ออก\",\"en\":\"Scrollbars in the panel are now orange to match the theme\\nRemoved the stray little scrollbar next to the “Main / Advanced” tabs\"}}",
+ "sig": "KfayS1VXuMonfcIfMI3NyyCDj5v1lX9nZf8cFgr/2GuFGBmE3Kh1Te/tDEaGGR+0iatArCHbJXdx5OfOGB9qDg=="
 }
