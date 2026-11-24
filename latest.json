@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"costanest\",\"version\":\"1.1.2\",\"date\":\"2026-11-23\",\"url\":\"CostaNest-1.1.2.zxp\",\"size\":726088,\"sha256\":\"55047ab55898b9307e73779fc9b34048d4ee6bc899d61e01ee76fc9cdc5f75bf\",\"notes\":{\"th\":\"เวอร์ชันทดสอบปุ่มอัปเดต\\nถ้ามุมล่างซ้ายของแผงขึ้น v1.1.2 หลังเปิด Illustrator ใหม่ แปลว่าอัปเดตสำเร็จ\",\"en\":\"Test release for the update button\\nIf the bottom left of the panel shows v1.1.2 after restarting Illustrator, the update worked\"}}",
- "sig": "dPjISUf/RNU17AXT/kDnmCvHsxZ4DUOgJnAGzCOkjkrvWxjYPBbLdQijOjm1YLkHMlKJJfzHUQxwt3RS01IxDA=="
+ "payload": "{\"product\":\"costanest\",\"version\":\"1.2.0\",\"date\":\"2026-11-24\",\"url\":\"CostaNest-1.2.0.zxp\",\"size\":731535,\"sha256\":\"eefe1041b8cfbd62781389fd469afea42d32067157a3781b54356b40f10fea13\",\"notes\":{\"th\":\"ปุ่ม “อัปเดต” อยู่บนแถบด้านบนของแผงตลอด และเด้งแจ้งเตือนเองทันทีที่มีเวอร์ชันใหม่ (ตรวจทุกครั้งที่เปิด Illustrator)\\nแก้ปุ่ม “คัดลอก” รหัสเครื่องและใบเสนอราคาที่กดแล้วไม่ติดคลิปบอร์ด\",\"en\":\"The “Update” button now sits in the panel's top bar and pops up a notice as soon as a new version is out (checked every time Illustrator starts)\\nFixed the “Copy” buttons (computer code and quote) not reaching the clipboard\"}}",
+ "sig": "oaU8fYgQ+oK2MBaBGWqxRUiEUDQNLnhdqY7wgY5z8s07OkIDWRlX1HNRunfqE7D4c9wwRF1Q2vBhD46F0MJDDw=="
 }
