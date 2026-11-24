@@ -1,4 +1,4 @@
 {
- "payload": "{\"product\":\"costanest\",\"version\":\"1.2.2\",\"date\":\"2026-11-24\",\"url\":\"CostaNest-1.2.2.zxp\",\"size\":731781,\"sha256\":\"0597501d1f1d0354496b7babd17f6eb9292dda54135c2e613f05745da3094412\",\"notes\":{\"th\":\"แถบเลื่อนในแผงเป็นสีส้มให้เข้ากับธีม\\nเอาแถบเลื่อนเล็กที่โผล่เกินมาข้างแท็บ “หลัก / ปรับแต่งขั้นสูง” ออก\",\"en\":\"Scrollbars in the panel are now orange to match the theme\\nRemoved the stray little scrollbar next to the “Main / Advanced” tabs\"}}",
- "sig": "KfayS1VXuMonfcIfMI3NyyCDj5v1lX9nZf8cFgr/2GuFGBmE3Kh1Te/tDEaGGR+0iatArCHbJXdx5OfOGB9qDg=="
+ "payload": "{\"product\":\"costanest\",\"version\":\"1.3.0\",\"date\":\"2026-11-24\",\"url\":\"CostaNest-1.3.0.zxp\",\"size\":732641,\"sha256\":\"2c9df286ad78e0a16ffb9561f2d64191fbf0c83ef356176062949813d7c8af46\",\"notes\":{\"th\":\"ซื้อแล้วเปิดใช้งานเองได้ทันที: วางโค้ดซื้อ (CNC-…) ในหน้าเปิดใช้งาน แผงจะออกคีย์ของเครื่องนี้ให้เอง ไม่ต้องรอผู้ขาย\\nคีย์แบบเดิม (CN1-…) ยังใช้ได้เหมือนเดิม\",\"en\":\"Activate on your own right after buying: paste your purchase code (CNC-…) on the activation screen and the panel gets this computer's key by itself\\nLicense keys (CN1-…) work as before\"}}",
+ "sig": "rP53NZ1IfvCvwBEwR9LPKxPs5VHtTPlWQ/lKwFiSFjSwn/0wBlhKZmGgfWPtYRpaCP1gXwCoh1aOKA4FZyKeDA=="
 }
